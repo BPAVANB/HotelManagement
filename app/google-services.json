@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "544078420300",
+    "firebase_url": "https://hotelmanagement2-bea07.firebaseio.com",
+    "project_id": "hotelmanagement2-bea07",
+    "storage_bucket": "hotelmanagement2-bea07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544078420300:android:49eb1ab697e799b7",
+        "android_client_info": {
+          "package_name": "com.example.pavanbora.hotelmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544078420300-3up9uc2hcuaprlt57pp26uibrqj408ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pavanbora.hotelmanagement",
+            "certificate_hash": "01241c850b58d665d416794131a128a648054817"
+          }
+        },
+        {
+          "client_id": "544078420300-5sljf21dds71j1iet74bse3kuer53jh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWuhYRzkAw-3-SrozoBC8q2Kk-zI6auRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544078420300-5sljf21dds71j1iet74bse3kuer53jh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
